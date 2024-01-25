@@ -1,0 +1,525 @@
+:: StoryTitle
+Hansel & Gretel
+
+
+:: StoryData
+{
+  "ifid": "7A52CCFC-8D3E-4D1D-8C35-BEFA81E4FB9D",
+  "format": "Chapbook",
+  "format-version": "1.2.3",
+  "start": "Intro",
+  "zoom": 1
+}
+
+
+:: "Investigate the house first, wary of who or what might reside inside? {"position":"475,1550","size":"100,100"}
+Hansel and Gretel, cautious of the too-good-to-be-true discovery, decide to investigate the house before eating. They circle around, looking for signs of inhabitants or danger. As they reach the back of the house, they hear a faint creaking sound from inside.
+
+<img src="https://mcaintly-troiatts-dwiism.yolasite.com/ws/media-library/3f8eae305bf844f2b4a5b512607c1fad/526f6891-a350-4a59-a0ab-a7ec8f127acb.webp" height = 500 width = 550>
+
+Peeking through a window, they see an old woman moving about inside. The children watch as the old woman dances around the kitchen humming to herself while she is pulling a fresh batch of cookies out of the oven. 
+
+The old woman seems to have caught a glimpse of the children as she stops and looks out her window. She gently places some of the freshly made cookies onto a plate, and approaches the front door.
+
+"Come inside now, its cold"
+
+The woman's eyes sparkle with mischief as she ushers them inside. The interior of the house is warm, cozy, and filled with the aroma of freshly baked goods. 
+
+"Here, eat. You must be starving!" 
+
+Completly driven by hunger, Hansel and Gretel don't think twice and accept the batch of freshly baked cookies The taste is delightful, a welcome relief from their long journey and meager meals. The old woman seems kind and invites them to stay, promising more food and comfort.
+
+<img src="https://mcaintly-troiatts-dwiism.yolasite.com/ws/media-library/281e8cfe33c84ba6bd8090bc7fc68415/7fd948dc-be8a-4672-b52b-9edddcae8988.webp" height = 500 width = 550>
+
+[[Accept the witch's offer to stay and eat more?]]
+
+[[Politely decline and say they must continue their journey?]]
+
+
+
+
+:: Accept the witch's offer to stay and eat more? {"position":"275,1675","size":"100,100"}
+Swayed by the witch's kindness and the allure of more food, Hansel and Gretel agree to stay. However, as night falls, the woman reveals her true heinous nature. Hansel is captured and placed in a cage, and Gretel is forced into servitude.
+
+<img src="https://mcaintly-troiatts-dwiism.yolasite.com/ws/media-library/d59d7db3cbfc47828fef93c7dac21579/f4e10d96-4940-4564-93f9-c1220d4c0023.webp" height = 500 width = 550>
+
+Gretel, though frightened, formulates a plan. She feigns compliance but carefully observes the witch's habits and routines. When the witch prepares to cook Hansel, Gretel seizes her chance
+
+Pretending to struggle with the oven, Gretel tricks the witch into leaning inside. With a brave push, she sends the witch tumbling into the oven, locking it shut.
+
+<img src="https://mcaintly-troiatts-dwiism.yolasite.com/ws/media-library/2ed6775d54034a7ba693b6e116a1467f/39b05686-1194-41dd-a84f-4d85f874ab9f.webp" height = 500 width = 550>
+
+On their way out, the children then find a hidden treasure in the witch's house – gold coins and precious gems. They quickly stash as much as their pockets can hold, and make a dash for the woods.
+<img src="https://mcaintly-troiatts-dwiism.yolasite.com/ws/media-library/c915db2a93e64ee79e45b0f72d17a68b/9f86b0ce-24b1-4710-962f-337118ae899d.webp" height = 500 width = 550>
+
+Back-tracking their steps, they eventually find their way home. Upon returning home, they discover their stepmother is gone and their father overjoyed to see them. With the witch's treasure, they rebuild their lives, never forgetting the lessons of bravery and love that saved them.
+
+<img src="https://mcaintly-troiatts-dwiism.yolasite.com/ws/media-library/3f348ce7332f40049a3cf0e70bca5fdd/5548ceaa-7b8e-4628-a6fb-2c8b25b2500b.webp" height = 500 width = 550>
+
+
+
+
+:: Approach the cabin?\  {"position":"175,950","size":"100,100"}
+As they approach the cabin, Hansel and Gretel feel a mixture of relief and apprehension. 
+
+
+[[Carefully explore the inside of the cabin for anything useful?]]
+
+[[Search the area around the cabin, wary of what might be inside?]]
+
+
+
+
+
+:: Avoid the cabin, and continue along the stream? {"position":"25,975","size":"100,100"}
+Hansel and Gretel continue their journey along the stream. The water's constant flow is a reassuring companion in the otherwise silent forest. 
+
+As they travel, the stream leads them through varying landscapes within the forest. They pass through dense thickets, open clearings, and occasionally spot wildlife cautiously observing them from a distance.
+
+After some time, they come across a narrow, somewhat overgrown trail that seems to run parallel to the stream. It appears to be man-made, suggesting that they are not entirely alone in the forest.
+
+With hopeful hearts, they decide to follow the trail, thinking it might lead to civilization or at least to someone who could help them.
+
+<img src="https://mcaintly-troiatts-dwiism.yolasite.com/ws/media-library/63473a47249344988ca6db6295006d3f/dalle-2024-01-21-16.42.38---opting-for-the-left-path-the-young-boy-and-girl-venture-into-a-denser-shadow-filled-part-of-.webp" height = 500 width = 550>
+
+The trail eventually leads them to a part of the forest where the trees grow sparser. In this area, they find an old, abandoned cabin. 
+
+As they approach the cabin, Hansel and Gretel feel a mixture of relief and apprehension. 
+
+
+[[Carefully explore the inside of the cabin for anything useful?]]
+
+[[Search the area around the cabin, wary of what might be inside?]]
+
+ 
+
+
+:: Carefully explore the inside of the cabin for anything useful? {"position":"325,1225","size":"100,100"}
+Summoning their courage, Hansel and Gretel cautiously step inside the cabin. The door creaks open to reveal a room covered in layers of dust and cobwebs. The air inside is musty, filled with the scent of old wood and forgotten memories. 
+
+<img src="https://mcaintly-troiatts-dwiism.yolasite.com/ws/media-library/7b876992d2254fb0a5a6535c8499f684/385e3b28-ebe5-4578-af31-3fb8f9156418.webp" height = 500 width = 550>
+
+The cabin, though abandoned, holds remnants of its past: a wooden table with two chairs, a fireplace with cold ashes, and shelves with a few scattered items: a small bag of dried herbs, a rusty but sharp knife, and a thick blanket. These could be vital for their survival in the forest.
+
+In a hidden compartment under a loose floorboard, they discover a map of the forest with certain areas marked. It's old but might still be useful.
+
+<img src="https://mcaintly-troiatts-dwiism.yolasite.com/ws/media-library/9aa4f0ebbefc41b0a43f83b8e44f2bf1/f604a2a5-bb1e-4350-a8bf-64a7cb56bde5.webp" height = 500 width = 550>
+
+[[Examine the map and plan their next move based on it?]]
+
+[[Ignore the map, fearing it might be misleading, and rely on their own instincts?]]
+
+
+ 
+
+
+:: Continue to follow the stream, wary of staying in one place for too long? {"position":"300,1050","size":"100,100"}
+Hansel and Gretel continue their journey along the stream. The water's constant flow is a reassuring companion in the otherwise silent forest. 
+
+As they travel, the stream leads them through varying landscapes within the forest. They pass through dense thickets, open clearings, and occasionally spot wildlife cautiously observing them from a distance.
+
+After some time, they come across a narrow, somewhat overgrown trail that seems to run parallel to the stream. It appears to be man-made, suggesting that they are not entirely alone in the forest.
+
+With hopeful hearts, they decide to follow the trail, thinking it might lead to civilization or at least to someone who could help them.
+
+The trail eventually leads them to a part of the forest where the trees grow sparser. In this area, they find an old, abandoned cabin. 
+
+<img src="https://mcaintly-troiatts-dwiism.yolasite.com/ws/media-library/63473a47249344988ca6db6295006d3f/dalle-2024-01-21-16.42.38---opting-for-the-left-path-the-young-boy-and-girl-venture-into-a-denser-shadow-filled-part-of-.webp" height = 500 width = 550>
+
+As they approach the cabin, Hansel and Gretel feel a mixture of relief and apprehension. 
+
+
+[[Carefully explore the inside of the cabin for anything useful?]]
+
+[[Search the area around the cabin, wary of what might be inside?]]
+
+ 
+
+
+:: Cross the stream and continue following the moonlit path {"position":"325,700","size":"100,100"}
+//Hansel and Gretel decide to cross over the gentle flow of the stream. They meander through the heart of the forest, the ground lined with smooth stones and overhanging branches. The sound of the wind rustling through the trees is soothing, and the moonlight shining through creates a path of shimmering light.//
+
+After walking for what seems like hours, the children reach a point where the stream forks into two different paths.
+
+[[Take the left path where the stream flows into a dense, darker part of the forest]]
+
+[[Follow the right path where the stream widens and the forest appears less dense]]
+
+
+
+
+:: Decide to stay and secretly prepare for the forest? {"position":"375,150","size":"100,100"}
+//After overhearing their stepmother's plan and choosing to stay, Hansel and Gretel wait until their parents are asleep. The cabin is quiet except for the occasional creak of the wood and the soft breathing of their parents. Outside, the forest looms in the moonlight, mysterious and foreboding.//
+
+Under the cloak of night, Hansel and Gretel quietly rose from their makeshift beds. With careful movements, they began to prepare for the uncertain journey ahead. 
+
+They knew they couldn't rely on their stepmother's cruel plan to abandon them in the forest. Instead, they decided to stay and prepare in secret, hoping to outwit the harsh reality they faced.
+
+Gretel gathers what little food remains – a few crusts of bread, a small piece of cheese – and tucks them into her apron. She knows that in the forest, they will need all the sustenance they can get.
+
+<img src="https://mcaintly-troiatts-dwiism.yolasite.com/ws/media-library/3bb51a33880248359ef876891215f782/preparing-.webp" height = 500 width = 550>
+
+Hansel recalls seeing a pile of smooth, white pebbles that he could use to mark their path in the forest, ensuring a way back home. 
+
+Searcing high and low for these pebbles, Hansel sees they are in a little pile just at the foot of the bed their parents were sleeping in.
+
+[[Risk waking them up and get the pebbles?]]
+
+[[Don't risk waking them up and leave the pebbles?]]
+
+
+
+
+<script>
+    var audio = document.createElement('audio');
+    audio.src = 'https://mcaintly-troiatts-dwiism.yolasite.com/ws/media-library/f01c8ebfb0574ca0b576bb85a8c0181a/y2meta-mp3cut.net-1.mp3';
+    audio.loop = true;
+    audio.play();
+</script>
+    
+
+
+
+:: Don't risk waking them up and leave the pebbles? {"position":"400,250","size":"100,100"}
+//Hansel hesitates at the sight of the pebbles near their parents' bed. The risk of waking them seems too great. The cabin is still, with only the occasional flicker of candlelight casting shadows on the walls. Hansel and Gretel exchange a look of understanding, realizing they must venture into the forest without the security of the pebbles.//
+
+Reluctantly turning away from the pebbles, Hansel nods at Gretel. They understand the stakes are too high to risk their parents' wrath. With heavy hearts but determined spirits, they decide to rely solely on their wits and memory to navigate the treacherous forest.
+
+As they prepare to leave, the children begin to contemplate their next move in the dark, silent cabin.
+
+[[Leave immediately?]]
+
+[[Leave before dawn?]]
+
+
+
+ 
+
+
+:: Examine the map and plan their next move based on it? {"position":"325,1350","size":"100,100"}
+Intrigued by the discovery of the map, Hansel and Gretel carefully unroll it on the dusty table. The map is fragile and worn, its edges frayed, but the markings are clear enough. It shows various paths through the forest, with certain areas marked with symbols. One particular symbol, resembling a house, draws their attention - it's not far from their current location.
+
+<img src="https://mcaintly-troiatts-dwiism.yolasite.com/ws/media-library/c09e49dd63b74facb36c45adc0ebdf06/e967f498-f166-40e4-9838-418d442c2d49.webp" height = 500 width = 550>
+
+The children study the map, trying to match its landmarks with what they've seen. They decide to follow a path leading to the symbol of the house, hoping it might be a place of refuge.
+
+<img src="https://mcaintly-troiatts-dwiism.yolasite.com/ws/media-library/896bc01ddc244196b8368856ed81b7ba/1335a02d-1866-499b-a1e7-84feabd70ca8.webp" height = 500 width = 550>
+
+Following the map's guidance, they set off. The forest seems less menacing in the light of day. Birds chirp in the trees, and the sun filters through the leaves, creating patterns on the forest floor.
+
+After several hours of walking, they come upon a clearing. There, to their amazement and delight, stands a house unlike any they've ever seen - it's made entirely of food. The walls are gingerbread, the windows are panes of clear sugar, and the roof is tiled with frosted pastries.
+
+<img src="https://mcaintly-troiatts-dwiism.yolasite.com/ws/media-library/e2ba9d9ea8b64f1bb9cb3f0e401e1b0c/167ac471-4362-4969-8180-f70c08b582d6.webp" height = 500 width = 550>
+
+
+With wide eyes and growing excitement, Hansel and Gretel approach the house. Ravenous from their hours of plowing through the woods, the aroma of fresh sweets fills the air, overwhelming their senses.
+
+<img src="https://mcaintly-troiatts-dwiism.yolasite.com/ws/media-library/a1c1ddcc37a847aba680f02ce82f5100/d77684e3-855c-4a37-8a9d-bbc399e481bb.webp" height = 500 width = 550>
+
+[[Start eating the house, giving in to their hunger?]]
+
+[["Investigate the house first, wary of who or what might reside inside?]]
+
+
+
+
+:: Follow the moonlit path deeper into the forest? {"position":"75,575","size":"100,100"}
+//Guided by the soft glow of the moon, Hansel and Gretel delve deeper into the forest. The path is bathed in a silver light, creating an almost mystical atmosphere. The trees sway gently in the night breeze, their leaves whispering secrets. The deeper they go, the more the forest seems to envelop them in its enigmatic embrace.//
+
+Hansel and Gretel journey deeper into the forest. Each step takes them further into a world unknown, filled with both wonder and trepidation. The moonlight casts eerie shadows, but also lights their way, giving them the courage to continue. 
+
+<img src="https://mcaintly-troiatts-dwiism.yolasite.com/ws/media-library/c6c2fb8ccaac42afad318ee44a03aa78/found-stream.webp" height = 500 width = 550>
+
+As they venture deeper, the children encounter a clear stream. Its water reflects the moon, creating a serene scene in the midst of the dense forest.
+
+[[Follow the stream, hoping it leads to safety or help?]]
+
+[[Cross the stream and continue following the moonlit path]]
+
+
+
+
+
+:: Follow the right path where the stream widens and the forest appears less dense {"position":"325,825","size":"100,100"}
+
+<img src="https://mcaintly-troiatts-dwiism.yolasite.com/ws/media-library/da36217e4b804d8d8c348e085690afa7/dalle-2024-01-21-16.44.46---at-night-the-young-girl-and-boy-find-themselves-in-a-less-dense-area-of-the-forest.-the-scene.webp" height = 500 width = 550>
+
+Choosing the right path, Hansel and Gretel find themselves in a less dense area of the forest. The forest feels less intimidating, with more open spaces and the gentle rustling of leaves in the breeze. Along this path, they encounter a meadow filled with wildflowers and a clear pond fed by the stream. The area is peaceful and seems like a safe place to rest.
+
+[[Rest by the pond and gather food from the surrounding meadow?]]
+
+[[Continue to follow the stream, wary of staying in one place for too long?]]
+
+
+
+
+:: Follow the stream, hoping it leads to safety or help? {"position":"75,700","size":"100,100"}
+//Hansel and Gretel decide to follow the gentle flow of the stream, trusting in the natural course of the water to lead them to safety. The stream meanders through the heart of the forest, its banks lined with smooth stones and overhanging branches. The sound of the water is soothing, and the moonlight dancing on its surface creates a path of shimmering light.//
+<img src="https://mcaintly-troiatts-dwiism.yolasite.com/ws/media-library/8182560c498c423d8f68ba256349dff2/dalle-2024-01-21-16.37.57---in-a-dark-moonlit-forest-a-young-girl-and-boy-are-depicted-crossing-over-a-stream.-they-are-.webp" height = 500 width = 550>
+
+Choosing the stream as their guide, Hansel and Gretel walk alongside its winding path. 
+
+After walking for what seems like hours, the children reach a point where the stream forks into two different paths.
+
+[[Take the left path where the stream flows into a dense, darker part of the forest]]
+
+[[Follow the right path where the stream widens and the forest appears less dense]]
+
+
+
+
+:: Ignore the map, fearing it might be misleading, and rely on their own instincts? {"position":"450,1350","size":"100,100"}
+Although intrigued by the discovery of the map, Hansel and Gretel ultimately decide it could be misleading.
+
+The children wedge the map back between the old bricks where they found it, and begin to walk again.
+
+The forest seems less menacing in the light of day. Birds chirp in the trees, and the sun filters through the leaves, creating patterns on the forest floor.
+
+After a long several hours of walking, they come upon a clearing. There, to their amazement and delight, stands a house unlike any they've ever seen - it's made entirely of food. The walls are gingerbread, the windows are panes of clear sugar, and the roof is tiled with frosted pastries.
+
+<img src="https://mcaintly-troiatts-dwiism.yolasite.com/ws/media-library/e2ba9d9ea8b64f1bb9cb3f0e401e1b0c/167ac471-4362-4969-8180-f70c08b582d6.webp" height = 500 width = 550>
+
+With wide eyes and growing excitement, Hansel and Gretel approach the house. Ravenous from their hours of plowing through the woods, the aroma of fresh sweets fills the air, overwhelming their senses.
+
+<img src="https://mcaintly-troiatts-dwiism.yolasite.com/ws/media-library/a1c1ddcc37a847aba680f02ce82f5100/d77684e3-855c-4a37-8a9d-bbc399e481bb.webp" height = 500 width = 550>
+
+[[Start eating the house, giving in to their hunger?]]
+
+[["Investigate the house first, wary of who or what might reside inside?]]
+
+
+
+
+:: Intro {"position":"350,25","size":"100,100"}
+<img src="https://mcaintly-troiatts-dwiism.yolasite.com/ws/media-library/7fb758595a1f4201922d72116803ed28/intro-1.webp" height = 500 width = 550>
+
+//The story begins inside a small, rustic cabin at the edge of a vast, ominous forest. The cabin, showing signs of neglect and poverty, is dimly lit by a flickering candle. Hansel and Gretel, two young children with a look of worry etched on their faces, are huddled together, listening intently. Their father, a gaunt and weary woodcutter, sits at the table with his face buried in his hands. Their unloving, cruel stepmother paces the room, her expression fraught with desperation.
+
+It's a cold, starless night. The wind howls outside, making the timbers of the cabin creak. The family has been struggling with hardship, and the cupboards are nearly empty, with little hope for replenishment. In the shadows of the room, the children overhear their stepmother's harsh whisper, proposing a chilling plan to abandon them in the forest to fend for themselves.
+//
+
+In the dim light of their humble cabin, Hansel and Gretel clung to each other, their hearts racing with fear. They listened as their stepmother's voice, sharp and cold, cut through the silence, 
+
+"We must take them into the forest tomorrow and leave them there. It's the only way."
+
+Their father, tormented by hunger and despair, offered no protest. The harsh reality of their plight hung heavy in the air.
+
+[[Plan to sneak out at night and run away?]]
+
+[[Decide to stay and secretly prepare for the forest?]]
+
+<script>
+    var audio = document.createElement('audio');
+    audio.src = 'https://mcaintly-troiatts-dwiism.yolasite.com/ws/media-library/f01c8ebfb0574ca0b576bb85a8c0181a/y2meta-mp3cut.net-1.mp3';
+    audio.loop = true;
+    audio.play();
+</script>
+
+
+
+
+
+:: Leave before dawn? {"position":"500,375","size":"100,100"}
+//After a few hours of rest, Hansel and Gretel woke up before the sun, and decide its time. They dress in their warmest clothes, bracing themselves for the unknown.
+
+Outside, the forest looms large, its silhouette foreboding against the dark sky. The children exchange a determined look, knowing that their decision to flee carries risks, but staying behind could be far worse.//
+
+Hansel and Gretel carefully open the creaking door of the cabin, and step out into the cold. 
+
+The forest, a dark wall of mystery and danger, beckons them with both fear and promise of safety. Hansel, holding his sister's hand tightly, whispers, 
+
+With one last look at their only home, they venture into the shadows of the trees, driven by hope and the desperate desire for a better life.
+
+<img src="https://mcaintly-troiatts-dwiism.yolasite.com/ws/media-library/d3639af5676f48b9bdd5c884a8224646/dalle-2024-01-21-16.41.05---in-a-dark-moonlit-forest-a-young-girl-and-boy-dressed-in-warm-poor-clothes-come-to-a-spli.webp" height = 500 width = 550>
+
+[[Follow the moonlit path deeper into the forest?]]
+
+[[Stay close to the edge of the forest and move parallel to it?]]
+
+
+
+:: Leave immediately? {"position":"375,375","size":"100,100"}
+
+<img src="https://mcaintly-troiatts-dwiism.yolasite.com/ws/media-library/d3639af5676f48b9bdd5c884a8224646/dalle-2024-01-21-16.41.05---in-a-dark-moonlit-forest-a-young-girl-and-boy-dressed-in-warm-poor-clothes-come-to-a-spli.webp" height = 500 width = 550>
+
+The forest, a dark wall of mystery and danger, beckons them with both fear and promise of safety. Hansel, holding his sister's hand tightly, whispers, 
+
+"We'll find a way. We have to."
+
+With one last look at their only home, they venture into the shadows of the trees, driven by hope and the desperate desire for a better life.
+
+
+[[Follow the moonlit path deeper into the forest?]]
+
+[[Stay close to the edge of the forest and move parallel to it?]]
+
+
+
+
+
+:: Plan to sneak out at night and run away? {"position":"175,125","size":"100,100"}
+<img src="https://mcaintly-troiatts-dwiism.yolasite.com/ws/media-library/3bb51a33880248359ef876891215f782/preparing-.webp" height = 500 width = 550>
+
+//Hansel and Gretel, wide-eyed and resolute, quietly gather a few belongings - a small loaf of bread, a worn-out blanket, and a flint stone. They dress in their warmest clothes, bracing themselves for the unknown.
+
+Outside, the forest looms large, its silhouette foreboding against the night sky. The children exchange a determined look, knowing that their decision to flee carries risks, but staying behind could be far worse.//
+
+Hansel and Gretel carefully open the creaking door of the cabin. They pause, ensuring their parents are still asleep, then step out into the cold night. 
+
+The forest, a dark wall of mystery and danger, beckons them with both fear and promise of safety. Hansel, holding his sister's hand tightly, whispers, 
+
+"We'll find a way. We have to."
+
+With one last look at their only home, they venture into the shadows of the trees, driven by hope and the desperate desire for a better life.
+
+<img src="https://mcaintly-troiatts-dwiism.yolasite.com/ws/media-library/d3639af5676f48b9bdd5c884a8224646/dalle-2024-01-21-16.41.05---in-a-dark-moonlit-forest-a-young-girl-and-boy-dressed-in-warm-poor-clothes-come-to-a-spli.webp" height = 500 width = 550>
+
+[[Follow the moonlit path deeper into the forest?]]
+
+[[Stay close to the edge of the forest and move parallel to it?]]
+
+<script>
+    var audio = document.createElement('audio');
+    audio.src = 'https://mcaintly-troiatts-dwiism.yolasite.com/ws/media-library/f01c8ebfb0574ca0b576bb85a8c0181a/y2meta-mp3cut.net-1.mp3';
+    audio.loop = true;
+    audio.play();
+</script>
+
+
+:: Politely decline and say they must continue their journey? {"position":"400,1675","size":"100,100"}
+Despite their hunger, Hansel and Gretel sense something amiss. They politely decline the offer and insist on continuing their journey. As they leave, they glimpse the woman's  true heinous anger and realize the danger they narrowly escaped.
+
+<img src="https://mcaintly-troiatts-dwiism.yolasite.com/ws/media-library/d59d7db3cbfc47828fef93c7dac21579/f4e10d96-4940-4564-93f9-c1220d4c0023.webp" height = 500 width = 550>
+
+As they wander away from the witch's house, they encounter a friendly woodsman and his son who listen to their story. He tells them about the witch's evil reputation and guides them through the forest.
+
+<img src="https://mcaintly-troiatts-dwiism.yolasite.com/ws/media-library/b6f171b6ad9e47179ee5697b8993c8e7/2e6124ed-f016-4ed5-ad43-a61c714a6d99.webp" height = 500 width = 550>
+
+The woodsman helps them find their way home. Reunited with their father, who is relieved and remorseful, they find out that their stepmother has left.
+
+Safe at last, Hansel and Gretel grow up with the love and care they deserve. Their brave decision in the face of temptation becomes a tale told for generations, inspiring courage and wisdom.
+
+ 
+
+
+:: Rest by the pond and gather food from the surrounding meadow? {"position":"400,950","size":"100,100"}
+<img src="https://mcaintly-troiatts-dwiism.yolasite.com/ws/media-library/821a85360fb44fc4b45cf309e1afecc7/dalle-2024-01-21-16.46.21---in-the-moonlit-meadow-the-young-girl-and-boy-dressed-in-warm-but-poor-clothes-are-depicted-.webp" height = 500 width = 550>
+
+Deciding to take a much-needed rest, Hansel and Gretel settle by the tranquil pond in the meadow. The gentle sound of water and the serene beauty of the wildflowers provide a temporary haven from their worries. 
+
+As they rest, they notice a variety of birds and small animals coming to the pond. Among them is a curious bird with bright plumage that seems unafraid of their presence.
+
+Intrigued by the bird's behavior, they decide to follow it as it flutters away from the pond, leading them deeper into the forest. The bird's path is indirect, taking them through areas of the forest they wouldn't have explored on their own.
+
+The bird's path eventually leads them to a more secluded part of the forest. Here, hidden among the dense trees, they stumble upon an old, abandoned cabin. It stands as a silent, mysterious sentinel in the forest.
+
+<img src="https://mcaintly-troiatts-dwiism.yolasite.com/ws/media-library/63473a47249344988ca6db6295006d3f/dalle-2024-01-21-16.42.38---opting-for-the-left-path-the-young-boy-and-girl-venture-into-a-denser-shadow-filled-part-of-.webp" height = 500 width = 550>
+
+Approaching the cabin cautiously, Hansel and Gretel feel a mix of curiosity and unease. The cabin seems to hold secrets, its windows like dark, watchful eyes. Despite their apprehension, the possibility of finding supplies or even shelter for the night draws them closer."
+
+[[Carefully explore the inside of the cabin for anything useful?]]
+
+[[Search the area around the cabin, wary of what might be inside?]]
+
+
+
+
+:: Risk waking them up and get the pebbles? {"position":"275,275","size":"100,100"}
+Hansel carefully crept towards the foot of his parents' bed, his heart pounding in his chest. He needed those smooth, white pebbles to mark their path through the forest. He reached out, his fingers trembling as he grabbed a handful of pebbles.
+
+As he did so, a single pebble slipped from his grasp, hitting the wooden floor with a soft but noticeable sound. The room, previously quiet except for their parents' soft breathing, suddenly became tense.
+
+Their mother stirred in her sleep, mumbling something unintelligible. Gretel held her breath, her eyes fixed on the bed, hoping she would settle back into slumber.
+
+But luck was not on their side. Their mother's eyes shot open, ands he sat up abruptly, her gaunt face twisted in anger and confusion.
+
+Hansel quickly picked up the dropped pebble, grabbed Gretel by the arm, and made a 
+mad dash for the door.
+<img src="https://mcaintly-troiatts-dwiism.yolasite.com/ws/media-library/d3639af5676f48b9bdd5c884a8224646/dalle-2024-01-21-16.41.05---in-a-dark-moonlit-forest-a-young-girl-and-boy-dressed-in-warm-poor-clothes-come-to-a-spli.webp" height = 500 width = 550>
+
+With one last look at their only home, they venture into the shadows of the trees, driven by hope and the desperate desire for a better life.
+
+
+[[Follow the moonlit path deeper into the forest?]]
+
+[[Stay close to the edge of the forest and move parallel to it?]]
+
+
+
+
+:: Search the area around the cabin, wary of what might be inside? {"position":"475,1225","size":"100,100"}
+Opting for caution, Hansel and Gretel decide to first scout the cabin's surroundings. The area around the cabin is overgrown but shows signs of past activity: a small, now dry well, remnants of a garden, and a few scattered tools. 
+
+While searching, nestled between some crumbled bricks, they discover a map of the forest with certain areas marked. It's old but might still be useful.
+
+<img src="https://mcaintly-troiatts-dwiism.yolasite.com/ws/media-library/f2e3620b4fe14fa193c360f563d28a1d/804abdba-9c3e-4b2d-9392-4c10724c507a.webp" height = 500 width = 550>
+
+[[Examine the map and plan their next move based on it?]]
+
+[[Ignore the map, fearing it might be misleading, and rely on their own instincts?]]
+
+
+
+
+:: Start eating the house, giving in to their hunger? {"position":"275,1550","size":"100,100"}
+Driven by hunger, Hansel and Gretel can't resist the temptation of the house made of sweets. They begin to eat the gingerbread walls and nibble on the sugar windows. The taste is delightful, a welcome relief from their long journey and meager meals.
+
+<img src="https://mcaintly-troiatts-dwiism.yolasite.com/ws/media-library/ef8b90841afb43828c6c248f8c6a012e/6bc752f9-6bf4-43ad-8059-5dbb7af671fa.webp" height = 500 width = 550>
+
+As they indulge, the door of the house opens, and an old woman appears. She seems kind and invites them in, promising more food and comfort.
+
+The woman's eyes sparkle with mischief as she ushers them inside. The interior of the house is cozy and filled with the aroma of baking. The children, too captivated by the food and warmth, don't notice the cage hidden in the shadows
+
+<img src="https://mcaintly-troiatts-dwiism.yolasite.com/ws/media-library/281e8cfe33c84ba6bd8090bc7fc68415/7fd948dc-be8a-4672-b52b-9edddcae8988.webp" height = 500 width = 550>
+
+[[Accept the witch's offer to stay and eat more?]]
+
+[[Politely decline and say they must continue their journey?]]
+
+ 
+
+
+:: Stay close to the edge of the forest and move parallel to it? {"position":"200,575","size":"100,100"}
+//Guided by the soft glow of the moon, Hansel and Gretel delve deeper into the forest. The path is bathed in a silver light, creating an almost mystical atmosphere. The trees sway gently in the night breeze, their leaves whispering secrets. The deeper they go, the more the forest seems to envelop them in its enigmatic embrace.//
+
+Hansel and Gretel journey deeper into the forest. Each step takes them further into a world unknown, filled with both wonder and trepidation. The moonlight casts eerie shadows, but also lights their way, giving them the courage to continue. 
+
+<img src="https://mcaintly-troiatts-dwiism.yolasite.com/ws/media-library/c6c2fb8ccaac42afad318ee44a03aa78/found-stream.webp" height = 500 width = 550>
+
+As they venture deeper, the children encounter a clear stream. Its water reflects the moon, creating a serene scene in the midst of the dense forest.
+
+[[Follow the stream, hoping it leads to safety or help?]]
+
+[[Cross the stream and continue following the moonlit path]]
+
+
+
+
+
+:: Take the left path where the stream flows into a dense, darker part of the forest {"position":"75,825","size":"100,100"}
+Opting for the left path, Hansel and Gretel venture into a denser, shadow-filled part of the forest. The canopy above is thick, allowing only slivers of moonlight to filter through. 
+
+The air grows cooler and the sounds of the forest more pronounced. The stream here moves swiftly, its waters murmuring over rocks and fallen branches.
+
+<img src="https://mcaintly-troiatts-dwiism.yolasite.com/ws/media-library/63473a47249344988ca6db6295006d3f/dalle-2024-01-21-16.42.38---opting-for-the-left-path-the-young-boy-and-girl-venture-into-a-denser-shadow-filled-part-of-.webp" height = 500 width = 550>
+
+In this darker part of the forest, they stumble upon an old, abandoned cabin. The cabin is overgrown with ivy and moss, suggesting it hasn't been inhabited for a long time.
+
+[[Approach the cabin? ]]
+
+[[Avoid the cabin, and continue along the stream?]]
+
+
+
+
+:: StoryStylesheet [stylesheet]
+config.style.page.font: "Iowan Old Style/Constantia/Georgia/serif 18"
+config.style.page.color: "gray-9 on #F5F0DC"
+config.style.page.link.font: "underline"
+config.style.page.link.color: "gray-9"
+config.style.page.link.lineColor: "gray-8"
+config.style.page.link.active.color: "gray-8 on gray-0"
+config.style.page.header.font: "16"
+config.style.page.header.link.font: "small caps"
+config.style.page.footer.font: "16"
+config.style.page.footer.link.font: "small caps"
